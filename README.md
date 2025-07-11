@@ -1,2 +1,2 @@
-# Serenity
-Project Serenity. It's a secret 🤫
+# Project Serenity
+It's a secret 🤫
